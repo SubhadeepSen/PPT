@@ -1,0 +1,12 @@
+Python Machine Learnining Libraries:
+------------------------------------
+
+Numpy
+Scipy
+Scikit-learn
+Theano
+TensorFlow
+Keras
+PyTorch
+Pandas
+Matplotlib

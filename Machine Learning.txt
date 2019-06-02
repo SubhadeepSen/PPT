@@ -10,3 +10,7 @@ Keras
 PyTorch
 Pandas
 Matplotlib
+
+python -m pip install numpy
+python -m pip install scipy
+python -m pip install matplotlib

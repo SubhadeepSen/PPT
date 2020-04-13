@@ -1,0 +1,44 @@
+CredentialManager:
+	UserId
+	UserName
+	Password
+	Role
+	CreatedDateTime
+	LastAccessDateTime
+
+
+Inventory:
+	ProductId
+	Type/Category
+	Sub-Type/Sub-Category
+	ProductName
+	Description
+	Price
+	Available-Quantity
+	Manufacturer
+	LastUpdatedDateTime
+
+		
+Purchase(Sell):
+	OrderId/InvoiceId
+	CustomerName
+	Type/Category
+	ProductName
+	Description
+	Quantity
+	Price
+	Manufacturer
+	DateTime
+
+
+Servicerequest:
+	RequestId
+	CustomerName
+	Issue
+	Request-DateTime
+	ContactNo.
+	Status
+	Deliver-DateTime
+	Resolution
+	ServiceCharge
+	
